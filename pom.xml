@@ -12,6 +12,7 @@
   <modules>
     <module>1.two-sum</module>
     <module>9.palindrome-number</module>
+    <module>13.roman-to-integer</module>
   </modules>
 
   <properties>
