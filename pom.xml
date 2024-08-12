@@ -16,6 +16,8 @@
       <module>14.longest-common-prefix</module>
       <module>20.valid-parentheses</module>
       <module>21.merge-two-sorted-lists</module>
+      <module>26.remove-duplicates-from-sorted-array</module>
+    <module>26.remove-duplicates-from-sorted-array/README.md</module>
   </modules>
 
   <properties>
