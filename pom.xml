@@ -15,6 +15,7 @@
     <module>13.roman-to-integer</module>
       <module>14.longest-common-prefix</module>
       <module>20.valid-parentheses</module>
+      <module>21.merge-two-sorted-lists</module>
   </modules>
 
   <properties>
