@@ -14,6 +14,7 @@
     <module>9.palindrome-number</module>
     <module>13.roman-to-integer</module>
       <module>14.longest-common-prefix</module>
+      <module>20.valid-parentheses</module>
   </modules>
 
   <properties>
