@@ -13,6 +13,7 @@
     <module>1.two-sum</module>
     <module>9.palindrome-number</module>
     <module>13.roman-to-integer</module>
+      <module>14.longest-common-prefix</module>
   </modules>
 
   <properties>
