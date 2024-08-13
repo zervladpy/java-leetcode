@@ -21,6 +21,7 @@
         <module>28.find-the-index-of-the-first-occurrence-in-a-string</module>
         <module>35.search-insert-position</module>
         <module>58.length-of-last-word</module>
+        <module>66.plus-one</module>
     </modules>
 
     <properties>
