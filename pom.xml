@@ -19,6 +19,7 @@
         <module>26.remove-duplicates-from-sorted-array</module>
         <module>27.remove-element</module>
         <module>28.find-the-index-of-the-first-occurrence-in-a-string</module>
+        <module>35.search-insert-position</module>
     </modules>
 
     <properties>
