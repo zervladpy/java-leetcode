@@ -22,6 +22,7 @@
         <module>35.search-insert-position</module>
         <module>58.length-of-last-word</module>
         <module>66.plus-one</module>
+        <module>67.add-binary</module>
     </modules>
 
     <properties>
