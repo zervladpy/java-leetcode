@@ -18,6 +18,7 @@
         <module>21.merge-two-sorted-lists</module>
         <module>26.remove-duplicates-from-sorted-array</module>
         <module>27.remove-element</module>
+        <module>28.find-the-index-of-the-first-occurrence-in-a-string</module>
     </modules>
 
     <properties>
