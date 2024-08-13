@@ -23,6 +23,7 @@
         <module>58.length-of-last-word</module>
         <module>66.plus-one</module>
         <module>67.add-binary</module>
+        <module>69.sqrt-x</module>
     </modules>
 
     <properties>
