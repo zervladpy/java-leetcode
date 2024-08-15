@@ -27,6 +27,8 @@
         <module>2.add-two-numbers</module>
         <module>70.climbing-stairs</module>
         <module>71.simplify-path</module>
+        <module>72.edit-distance</module>
+        <module>83.remove-duplicates-from-sorted-list</module>
     </modules>
 
     <properties>
